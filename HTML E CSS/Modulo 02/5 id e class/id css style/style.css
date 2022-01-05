@@ -1,0 +1,23 @@
+@charset"UTF-8";
+body{
+    background-color: #210340;
+    font-family:sans-serif;
+    text-align: justify;
+}
+h1#Principal{
+    color:#7b0de9;
+    text-align: justify;
+    text-align: center;
+    background-color:#49068cad;
+}
+h2{
+    color: #7b0de9;
+}
+h1#Segundo{
+    color: #7b0de9;
+    text-align: center;
+}
+p{
+    text-indent: 20px;
+    color: white;
+}

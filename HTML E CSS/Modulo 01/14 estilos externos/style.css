@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body{
+    
+        background-color: darkgreen;
+        text-align: justify;
+        font-family: Arial, Helvetica, sans-serif;
+        font-style: italic;
+        font-size: 18px;
+    }
+    h1{
+        color: darkturquoise;
+    }
+    h2{
+        color: firebrick;
+    }
+    p{
+        color: goldenrod;
+    }

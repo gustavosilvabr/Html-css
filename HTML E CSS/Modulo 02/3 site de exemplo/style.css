@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+p{
+    text-align: justify;
+}
+body{
+    background-image: linear-gradient(to right,#68788C,#979DA6);
+}
+main{
+border-radius: 3%;    
+background-color: white;
+width: 450px;
+padding: 10px;
+margin:auto;
+box-shadow: 10px 10px 10px #474e59;
+}
+h1{
+    color: #e4c31f;
+    text-shadow: 1px 1px 1px #7e6e1c;
+}
+h2{
+    text-shadow: 1px 1px 1px #72777e;
+    color: #979DA6;
+
+}
+p{
+    text-align: justify;
+}
