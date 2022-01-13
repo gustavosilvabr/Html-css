@@ -1,0 +1,23 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
+
+header{
+    width: 100%;
+    height: 170px;
+    font-family: Passion One;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-left:-10px;
+    margin-top: -22px;
+
+}
+nav{
+    font-size: 2vh;
+    text-decoration: white none;
+    color: white;
+}
+body{
+
+}
